@@ -4,7 +4,6 @@
 #
 %define		pdir	ExtUtils
 %define		pnam	Helpers
-%include	/usr/lib/rpm/macros.perl
 Summary:	ExtUtils::Helpers - Various portability utilities for module builders
 Summary(pl.UTF-8):	ExtUtils::Helpers - narzędzia ułatwiające przenośność dla budowniczych modułów
 Name:		perl-ExtUtils-Helpers
